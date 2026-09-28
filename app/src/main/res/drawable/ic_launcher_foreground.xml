@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Bottom Disc (Tier 3) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M32,60 C32,56.5 41.8,54 54,54 C66.2,54 76,56.5 76,60 V69 C76,72.5 66.2,75 54,75 C41.8,75 32,72.5 32,69 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#475569"
+        android:strokeWidth="1.2"
+        android:pathData="M32,60 C32,63.5 41.8,66 54,66 C66.2,66 76,63.5 76,60" />
+    <path
+        android:fillColor="#243247"
+        android:strokeColor="#475569"
+        android:strokeWidth="1.2"
+        android:pathData="M54,54 C66.2,54 76,56.5 76,60 C76,63.5 66.2,66 54,66 C41.8,66 32,63.5 32,60 C32,56.5 41.8,54 54,54 Z" />
+
+    <!-- Middle Disc (Tier 2) -->
+    <path
+        android:fillColor="#243247"
+        android:pathData="M32,47 C32,43.5 41.8,41 54,41 C66.2,41 76,43.5 76,47 V56 C76,59.5 66.2,62 54,62 C41.8,62 32,59.5 32,56 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#475569"
+        android:strokeWidth="1.2"
+        android:pathData="M32,47 C32,50.5 41.8,53 54,53 C66.2,53 76,50.5 76,47" />
+    <path
+        android:fillColor="#2D3D58"
+        android:strokeColor="#475569"
+        android:strokeWidth="1.2"
+        android:pathData="M54,41 C66.2,41 76,43.5 76,47 C76,50.5 66.2,53 54,53 C41.8,53 32,50.5 32,47 C32,43.5 41.8,41 54,41 Z" />
+
+    <!-- Top Disc (Tier 1 - Oracle Crimson Red) -->
+    <path
+        android:fillColor="#EA2027"
+        android:pathData="M32,34 C32,30.5 41.8,28 54,28 C66.2,28 76,30.5 76,34 V43 C76,46.5 66.2,49 54,49 C41.8,49 32,46.5 32,43 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF6B6B"
+        android:strokeWidth="1.2"
+        android:pathData="M32,34 C32,37.5 41.8,40 54,40 C66.2,40 76,37.5 76,34" />
+    <path
+        android:fillColor="#FF2E36"
+        android:strokeColor="#FF8585"
+        android:strokeWidth="1.2"
+        android:pathData="M54,28 C66.2,28 76,30.5 76,34 C76,37.5 66.2,40 54,40 C41.8,40 32,37.5 32,34 C32,30.5 41.8,28 54,28 Z" />
+
+    <!-- Lightning Bolt Accent (Cyan #38BDF8) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M57,35 L45,51 L52,51 L48,69 L63,48 L56,48 Z" />
+
+</vector>
